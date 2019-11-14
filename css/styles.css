@@ -1,8 +1,23 @@
-* {
-  margin: 0;
-  padding: 0;
+
+.contenedor {
+  margin: 100px;
+  padding: 150px;
+  left:300px;
+}
+h2 {
+  margin: 10px;
+}
+.parrafo {
+  margin: 10px;
+}
+.imagen {
+  width: 400px;
 }
 
-.imagen {
-  width: 250px;
+.medalla {
+  width: 70px;
+  height: 90px;
+  left: 570px;
+  top: 280px;
+  position: absolute;
 }
